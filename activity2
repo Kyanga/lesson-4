@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Activity 2</title>
+    </head>
+    <body>
+        <h2>Audio in HTML</h2>
+        <audio controls autoplay>
+            <source src="random-water-drop-ripple-241044.mp3" type="audio/mpeg">
+            Your browser does not suport
+            </audio>
+            <video controls height="400px" width="400px>"><source>
+                <source src="istockphoto-1691168649-640_adpp_is.mp4" type="video/mp4">
+                Your browser does not suport
+            </video>
+    </body>
+</html>
